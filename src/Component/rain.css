@@ -1,0 +1,7 @@
+.container{
+    width: 40%;
+    margin: auto;
+    height: 40%;
+    background: rgba(56, 60, 62, 65%);
+    border-radius: 16px;
+}
